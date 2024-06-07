@@ -65,4 +65,4 @@ Optionally, learn how to integrate Route 53 for DNS management.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
 License
-This project is licensed under the MIT License
+This project is licensed under the MIT Licens
